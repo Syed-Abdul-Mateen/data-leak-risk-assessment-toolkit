@@ -45,7 +45,7 @@ data-leak-risk-assessment-toolkit/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/data-leak-risk-assessment-toolkit
+   git clone https://github.com/Syed-Abdul-Mateen/data-leak-risk-assessment-toolkit
    cd data-leak-risk-assessment-toolkit
    ```
 
