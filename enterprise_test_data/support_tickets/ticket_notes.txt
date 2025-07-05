@@ -1,0 +1,2 @@
+Ticket 123 opened by support@customer.com
+Shared logs contain PAN: NOPQR6789S

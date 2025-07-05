@@ -1,0 +1,5 @@
+File Path,Sensitive Data Found,Risk Score
+D:\Projects\data-leak-risk-assessment-toolkit\enterprise_test_data\leaked.txt,"{'Email': ['hacker@leak.com'], 'Phone': [''], 'PAN': ['NOPQR6789S']}",20
+D:\Projects\data-leak-risk-assessment-toolkit\enterprise_test_data\hr_exports\employee_info.csv,"{'Email': ['john@example.com'], 'PAN': ['ABCDE1234F'], 'Aadhaar': ['1234 5678 9123']}",25
+D:\Projects\data-leak-risk-assessment-toolkit\enterprise_test_data\server_logs\access1.log,"{'Email': ['admin@company.com'], 'Phone': ['+91 ']}",10
+D:\Projects\data-leak-risk-assessment-toolkit\enterprise_test_data\support_tickets\ticket_notes.txt,"{'Email': ['support@customer.com'], 'PAN': ['NOPQR6789S']}",15
