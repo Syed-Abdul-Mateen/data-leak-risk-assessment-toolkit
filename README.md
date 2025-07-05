@@ -1,10 +1,10 @@
-# Data Leak Risk Assessment Toolkit 🔐
+# Data Leak Risk Assessment Toolkit 
 
 A Python-based cybersecurity tool that scans directories for potential data leaks, detects sensitive information (like emails, PAN numbers, phone numbers, Aadhaar), calculates a risk score, and generates professional CSV + PDF reports. Built for security analysts, system auditors, and researchers.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Recursive directory scanning
 - Pattern-based sensitive data detection
@@ -17,7 +17,7 @@ A Python-based cybersecurity tool that scans directories for potential data leak
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 data-leak-risk-assessment-toolkit/
@@ -41,7 +41,7 @@ data-leak-risk-assessment-toolkit/
 
 ---
 
-## 🛠️ How to Run
+## 🛠 How to Run
 
 1. Clone the repo:
    ```bash
@@ -61,7 +61,7 @@ data-leak-risk-assessment-toolkit/
 
 ---
 
-## 🧪 Run Tests
+##  Run Tests
 
 ```bash
 python -m unittest discover -s tests
@@ -69,7 +69,7 @@ python -m unittest discover -s tests
 
 ---
 
-## 📄 Sample Output
+##  Sample Output
 
 | File           | Score | Findings              |
 |----------------|-------|------------------------|
@@ -79,7 +79,7 @@ python -m unittest discover -s tests
 
 ---
 
-## ✅ Use Cases
+##  Use Cases
 
 - Detect exposed sensitive data in uploaded folders
 - Run before uploading logs to third-party servers
@@ -88,7 +88,7 @@ python -m unittest discover -s tests
 
 ---
 
-## 📌 Author
+##  Author
 
 **Syed Abdul Mateen**  
 Final-Year B.Tech CSE | ICFAI Tech Hyderabad  
@@ -96,6 +96,6 @@ Final-Year B.Tech CSE | ICFAI Tech Hyderabad
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you found this useful, leave a ⭐ on the repo. It really helps!
